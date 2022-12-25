@@ -1,0 +1,5 @@
+<launch>
+ 
+  <node name="rtsp_camera_node" pkg="rtsp_camera" type="rtsp_camera_node"  output="screen"/>
+   
+</launch>
